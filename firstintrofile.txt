@@ -1,2 +1,3 @@
 my first txt file for java QA 2
 checkout the new changes
+brach setting
